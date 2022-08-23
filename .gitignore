@@ -1,3 +1,9 @@
+# dependencies
+*/node_modules
+/.pnp
+.pnp.js
+package-lock.json
+
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
 
